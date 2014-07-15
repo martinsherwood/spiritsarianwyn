@@ -65,7 +65,7 @@ html {
 body {
 	height: 100%;
 	min-height: 100%;
-	background: url("../img/wall_bg.png") repeat top left hsla(0, 0%, 96%, 1);
+	background: #f4f4f4;
 	color: hsla(240, 0%, 51%, 1);
 	font-family: "Cabin", Helvetica Neue, Helvetica, Arial, sans-serif;
 	font-size: 100%;
